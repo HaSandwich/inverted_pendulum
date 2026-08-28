@@ -36,6 +36,7 @@ so this projects main objective was for me to explore and learn more advanced co
 
 <img width="400" height="338" alt="Screen Recording 2026-08-27 at 9 39 07 PM" src="https://github.com/user-attachments/assets/b85cc78f-b0fe-499c-9049-3ab55c1dbd16" />
 
+Currently this is running 2 PID loops one to keep the cart near the middle of the track and then another to keep the pendulum up, and in the future I plan to implement LQR and RL
 
 
 
