@@ -28,6 +28,17 @@ The system is powered by a Flyroun 5008 KV340 Brushless Motor running on FOC wit
 
 - Carbon Fiber Rod as the pendulum
 
+---
+
+# prog
+
+so this projects main objective was for me to explore and learn more advanced control theory and programming through exploring more sophisticated control methods like and reinforcement learning. So with the help of another maker named "zjor" on github who was kind enough to open source his code for an inverted pendulum, and AI I made a simulation in python so I can do most of the testing on here before worrying about electronics and hardware getting in the way.
+
+<img width="400" height="338" alt="Screen Recording 2026-08-27 at 9 39 07 PM" src="https://github.com/user-attachments/assets/b85cc78f-b0fe-499c-9049-3ab55c1dbd16" />
+
+
+
+
 
 
 # make sure to check media.md and build_logs.md for updates
